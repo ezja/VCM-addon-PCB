@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.1+dfsg-1*%
-%TF.CreationDate,2025-04-15T12:44:37+02:00*%
+%TF.CreationDate,2025-04-15T15:49:20+02:00*%
 %TF.ProjectId,VCM-addon-pcb,56434d2d-6164-4646-9f6e-2d7063622e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.1+dfsg-1) date 2025-04-15 12:44:37*
+G04 Created by KiCad (PCBNEW 9.0.1+dfsg-1) date 2025-04-15 15:49:20*
 %MOMM*%
 %LPD*%
 G01*
@@ -46,6 +46,10 @@ D11*
 X136500000Y-104500000D03*
 X138050000Y-104500000D03*
 %TD*%
+%TO.C,C2*%
+X136450000Y-107000000D03*
+X138000000Y-107000000D03*
+%TD*%
 D12*
 %TO.C,U1*%
 X140893934Y-109000001D03*
@@ -58,11 +62,6 @@ X143000000Y-109499999D03*
 X143000000Y-109000001D03*
 D13*
 X141946967Y-109749999D03*
-%TD*%
-D11*
-%TO.C,C2*%
-X136450000Y-107000000D03*
-X138000000Y-107000000D03*
 %TD*%
 D14*
 %TO.C,.54mm_Haaks*%

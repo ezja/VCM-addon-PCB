@@ -1,4 +1,4 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
 1;"C4,C3,C2";"C_0603_1608Metric";3;"0.1 uF";;;
-2;"U1";"DRV8210";1;"DRV8210";;;
+2;"U1";"DRV8210";1;"DRV8210DSGR";;;
 3;".54mm_Haaks";"PinHeader_1x06_P2.54mm_Horizontal";1;"Header2.54mm_Haaks";;;
