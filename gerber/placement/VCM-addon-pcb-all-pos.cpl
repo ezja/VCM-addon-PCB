@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C2,0.1 uF,C_0603_1608Metric,137.225,-107,0,top
+C3,0.1 uF,C_0603_1608Metric,137.275,-104.5,0,top
+C4,0.1 uF,C_0603_1608Metric,137.275,-111.5,180,top
+U1,DRV8210DSGR,DRV8210,141.946967,-109.749999,0,top
